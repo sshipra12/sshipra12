@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hi 👋, I'm Shipra <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50"> 
 
-<!--
-**sshipra12/sshipra12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my Data Structures and Algorithms skills
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love playing Badminton and reading Novels
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+
+### :gear: My skills include:
+
+- **Languages**: `C++` , `Java` , `Python`
+
+- **Web Technologies**: `Html` , `Css` , `Javascript` , `React`
+
+- **Database Technologies**: `MySQL` , `MongoDB`
+
+
+- **Programming Profiles** :  [CodeForces](https://codeforces.com/profile/sshipra12), [HackerRank](https://www.hackerrank.com/sshipra12?hr_r=1) , [LeetCode](https://leetcode.com/sshipra12/), [Geeksforgeeks](https://auth.geeksforgeeks.org/user/shiprasi2gr2)
+
+
+<br>
+
+
+📫 **How to Reach me**: 
+
+<a href="mailto:shiprasinha1205@gmail.com">
+  <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/gmail.png"/>
+</a></br>
+<br>
+<br>
+<br>
+<br>
