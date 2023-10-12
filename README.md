@@ -17,7 +17,7 @@
 - **Database Technologies**: `MySQL` , `MongoDB`
 
 
-- **Programming Profiles** :  [CodeForces](https://codeforces.com/profile/sshipra12), [HackerRank](https://www.hackerrank.com/sshipra12?hr_r=1) , [LeetCode](https://leetcode.com/sshipra12/), [Geeksforgeeks](https://auth.geeksforgeeks.org/user/shiprasi2gr2)
+- **Programming Profiles** :  [LeetCode](https://leetcode.com/sshipra12/), [HackerRank](https://www.hackerrank.com/sshipra12?hr_r=1) , [CodeForces](https://codeforces.com/profile/sshipra12), [Geeksforgeeks](https://auth.geeksforgeeks.org/user/shiprasi2gr2)
 
 
 <br>
